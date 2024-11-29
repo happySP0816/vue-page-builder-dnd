@@ -81,7 +81,7 @@ store.commit('user/setUser', {
   email: 'joe@apple.com',
 });
 
-const openDesignerModal = ref(true);
+const openDesignerModal = ref(false);
 // use designer model
 const firstDesignerModalButtonFunction = ref(null);
 //
