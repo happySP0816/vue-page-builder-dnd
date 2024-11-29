@@ -1,24 +1,8 @@
-<p align="center" dir="auto">
-<img width="200" style="max-width: 100%;" src="public/logo-myissue.svg" alt="Logo">
-</p>
-
- # NOTICE: This Repository is Archived
-
-**This repository is archived and will no longer be maintained. Please visit the new and actively maintained repository at:**
-
-[https://github.com/qaiswardag/vue-website-page-builder](https://github.com/qaiswardag/vue-website-page-builder)
-
 ## Intro
 
 If you find this project useful or interesting, I would greatly appreciate if you could star ⭐ the [GitHub repository](https://github.com/qaiswardag/vue-drag-and-drop-page-builder). It helps to boost the project's visibility and encourages me to continue adding new features.
 
 To star the repository, simply click on the **Star** button located at the top-right corner of the GitHub page. Thank you in advance for your support! 🙌
-
-## About and demo
-
-This app was born out of my desire to make a minimalst page builder with a elegant and intuitive design.
-
-[Play around with the page builder](https://www.builder-demo.myissue.dk)
 
 ## Technologies and Frameworks
 
